@@ -27,6 +27,19 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,postgres,redis,docker,git,linux&perline=12" alt="Technology stack" />
 </p>
 
+## GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ououduck&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=64748b&icon_color=2563eb&rank_icon=github" alt="ououduck's GitHub stats" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ououduck&layout=compact&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=64748b" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=ououduck&hide_border=true&background=FFFFFF00&ring=2563EB&fire=2563EB&currStreakLabel=0F172A&sideLabels=64748B&dates=94A3B8&currStreakNum=0F172A&sideNums=0F172A" alt="GitHub contribution streak" />
+
+</div>
+
 
 ## Connect
 
@@ -43,6 +56,8 @@
 </p>
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ououduck&label=Profile%20views&color=000000&style=flat-square" alt="Profile views" />
 
 <sub>Designed with clarity, built with curiosity.</sub>
 
