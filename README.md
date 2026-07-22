@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ououduck/ououduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm ououduck
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://github.com/ououduck">
+    <img src="https://img.shields.io/badge/GitHub-ououduck-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <b>Developer · Builder · Lifelong Learner</b><br />
+  Building useful things with clean code and clear thinking.
+</p>
+
+</div>
+
+## About
+
+```ts
+const me = {
+  username: "ououduck",
+  focus: ["Web Development", "Open Source", "AI"],
+  motto: "Make it work. Make it right. Make it simple.",
+};
+```
+
+- Exploring technology, shipping ideas, and learning in public.
+- Interested in thoughtful products, modern engineering, and developer tools.
+- Open to meaningful collaboration and interesting conversations.
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,postgres,redis,docker,git,linux&perline=12" alt="Technology stack" />
+</p>
+
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ououduck&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=64748b&icon_color=2563eb&rank_icon=github" alt="ououduck's GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ououduck&layout=compact&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=64748b" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=ououduck&hide_border=true&background=FFFFFF00&ring=2563EB&fire=2563EB&currStreakLabel=0F172A&sideLabels=64748B&dates=94A3B8&currStreakNum=0F172A&sideNums=0F172A" alt="GitHub contribution streak" />
+
+</div>
+
+## Connect
+
+<p>
+  <a href="https://github.com/ououduck">GitHub</a>
+  ·
+  <a href="mailto:i@pldduck.com">Email</a>
+  ·
+  <a href="https://www.pldduck.com">Website</a>
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ououduck&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
+
+<sub>Designed with clarity, built with curiosity.</sub>
+
+</div>
